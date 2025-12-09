@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=deeppink&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 ## Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
+
 <!-- 기술 스택 뱃지 -->
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
