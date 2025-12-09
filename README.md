@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 ## Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+header-type
+: wave, egg, shark, slice, soft, rounded
+
+animation
+: fadeIn, scaleIn, blink, blinking, twinkling
 -->
