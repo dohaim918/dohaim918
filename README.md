@@ -3,7 +3,7 @@
 ## Hi there 👋
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=118&section=footer&animation=fadeIn)
 <!--
 **dohaim918/dohaim918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
