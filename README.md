@@ -6,7 +6,11 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Doha%20Dev%20I'm%20layground%20🎨&fontColor=ffffff&fontSize=50&fontAlignY=55&animation=fadeIn)
 
+<br>
+
 ## Welcome to my corner of GitHub 💫
+
+<br>
 
 “Step by step, I’m learning and improving.”
 
