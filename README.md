@@ -39,16 +39,11 @@
 ---
 
 ### 🧩 GitHub Overview
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
-
-### 🧩 GitHub Overview
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=ambient-gradient)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
 
 
 
