@@ -1,8 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render-vercel-smoky.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Welcome%20to%20my%20space%20👋&fontColor=d6ace6&fontSize=48&fontAlignY=38&animation=fadeIn)
 
-## 👋 Welcome to my GitHub!
+## 👋 Thanks for stopping by!
  
 작은 기록들이 모여 더 나은 결과를 만든다고 믿고 꾸준히 노력하고 있습니다
 
