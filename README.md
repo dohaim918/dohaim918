@@ -46,7 +46,7 @@
 
 ---
 
-## 📞 Contact 📞
+## 📞 Contact
 
 **Instagram** - **speiq_kskw**  
 
