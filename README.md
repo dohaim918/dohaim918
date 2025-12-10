@@ -46,7 +46,7 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&background=00000000&border=F89AC0&stroke=F89AC0&ring=FB6FBB&fire=FF9FDF&currStreakLabel=FFB7E6&sideLabels=F89AC0&dates=ffffff)
+![image](https://user-images.githubusercontent.com/20955511/233865269-81583e73-c9b6-4e4b-9475-bc130de1bfdd.png)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=calm)
 
