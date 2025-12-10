@@ -7,7 +7,7 @@
 
 <br>
 
-###👑
+### 👑
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A2D2&width=435&lines=%E2%80%9CStep+by+step%2C+I%E2%80%99m+learning+and+improving.%E2%80%9D)](https://git.io/typing-svg)
 <br>
@@ -43,7 +43,7 @@
 
 ---
 
-## 📞 Contact  
+## 📞 Contact 📞
 <div align="center">
 
 **Instagram**  
