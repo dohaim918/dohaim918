@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render-vercel-smoky.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Welcome%20to%20my%20space%20👋&fontColor=d6ace6&fontSize=48&fontAlignY=38&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Doha%E2%80%99s%20Dev%20Playground%20🎨fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 ## 👋 Thanks for stopping by!
  
