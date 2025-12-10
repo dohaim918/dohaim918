@@ -13,6 +13,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 <!-- 방문자 수 -->
+![Visitor Count](https://hitscounter.pythonanywhere.com/count/tag.svg?url=https://github.com/dohaim918)
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdohaim918)
 
