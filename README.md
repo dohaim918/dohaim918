@@ -5,7 +5,6 @@
 
 ## Welcome to my corner of GitHub 💫
 
-<br>
 
 ### 👑
 
