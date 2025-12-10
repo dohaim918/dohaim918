@@ -1,15 +1,10 @@
 <div align="center">
 
-
-![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Doha%20Dev%20I'm%20layground%20🎨&fontColor=ffffff&fontSize=50&&fontAlignY=38&animation=fadeIn)
-
+![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Doha%20Dev%20I'm%20layground%20🎨&fontColor=ffffff&fontSize=50&fontAlignY=55&animation=fadeIn)
 
 ## Welcome to my corner of GitHub 💫
- 
+
 “Step by step, I’m learning and improving.”
-
-
-
 
 ### 🛠 Tech Stack
 
@@ -17,18 +12,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
----
-
-
-
-
 ### 📊 GitHub Overview
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
-
-
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F767DFFF&height=118&section=footer&animation=fadeIn)
 
