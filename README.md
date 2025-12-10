@@ -40,15 +40,14 @@
 
 ### 🧩 GitHub Overview
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=ambient-gradient)
 
 
+![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=apprentice)
 
-![image](https://user-images.githubusercontent.com/20955511/233865269-81583e73-c9b6-4e4b-9475-bc130de1bfdd.png)
+![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=apprentice)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=calm)
+![Markdown Usage](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=apprentice)
 
 
 ---
