@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=d6ace6&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=ffffff&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
 ## Hi 😊there 👋
-
+<div align=center>	
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
@@ -16,9 +17,7 @@
 
 <!-- Visitor Counter -->
 
-<div align=center>	
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apidohaim918=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
 
