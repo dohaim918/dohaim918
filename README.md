@@ -12,8 +12,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A2D2&width=435&lines=%E2%80%9CStep+by+step%2C+I%E2%80%99m+learning+and+improving.%E2%80%9D)](https://git.io/typing-svg)
 <br>
 
-</div> 
-
 ---
 
 ### 🛠 Tech Stack 🛠
@@ -104,7 +102,7 @@ GTQ & GTQi
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F767DFFF&height=118&section=footer&animation=fadeIn)
 
 </div>
-
+</div> 
 
 <!--
 **dohaim918/dohaim918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
