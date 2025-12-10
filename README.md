@@ -6,7 +6,6 @@
  
 “Step by step, I’m learning and improving.”
 
----
 
 
 
@@ -27,24 +26,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
 
----
-<!-- 사용할 수 있는 디자인 3개 중 마음에 드는 걸로 선택해서 사용 -->
-<!-- 기본형 -->
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohaim918&count_bg=%23F39BE1&title_bg=%239E4EBD&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)
 
-<!-- 동그란 스타일 -->
-<!--
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohaim918&count_bg=%23A97EF7&title_bg=%236644FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
--->
-
-<!-- 라인형 미니멀 -->
-<!--
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohaim918&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=true)
--->
-
-</div>
-
----
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F767DFFF&height=118&section=footer&animation=fadeIn)
 
