@@ -46,12 +46,11 @@
 ## 📞 Contact 📞
 <div align="center">
 
-**Instagram**  
-**speiq_kskw**  
+**Instagram** - **speiq_kskw**  
 
-📧 **Email**  
-**nzspave1121@gmail.com**  
-**canakenshow@naver.com**
+**Email** - **nzspave1121@gmail.com**  
+
+Github
 
 </div>  
 
