@@ -38,11 +38,11 @@
 
 ---
 
-### 📊 GitHub Overview
+### 🧩 GitHub Overview
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=defaultColor=922D6AFD)
 
 ---
 
