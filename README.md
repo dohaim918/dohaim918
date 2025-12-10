@@ -1,4 +1,4 @@
-
+<div align=center>
   
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=d6ace6&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=ffffff&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
@@ -23,12 +23,12 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
 
 
-
+	
+</div>
 
 <!--
 **dohaim918/dohaim918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div align=center>	
-</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
