@@ -8,13 +8,7 @@
 
 ---
 
-### 📊 GitHub Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
-
----
 
 ### 🛠 Tech Stack
 
@@ -27,7 +21,13 @@
 ### 👀 Visitor Count
 
 
+### 📊 GitHub Overview
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
+
+---
 <!-- 사용할 수 있는 디자인 3개 중 마음에 드는 걸로 선택해서 사용 -->
 <!-- 기본형 -->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohaim918&count_bg=%23F39BE1&title_bg=%239E4EBD&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)
