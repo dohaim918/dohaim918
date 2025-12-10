@@ -55,8 +55,8 @@
 <div>
   <a href=skeiq_kskw> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=skeiq_kskw"> </a>
   <a href=mailto:nzspace1121@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nzspace1121@gmail.com"> </a>
-  <a href=추가예정> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=추가예정"> </a>
-  <a href=추가예정> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=추가예정"> </a>
+  <a href=추가예정> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=1234@1234"> </a>
+  <a href=추가예정> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=1234@1234"> </a>
 </div>  
 
 </div>  
