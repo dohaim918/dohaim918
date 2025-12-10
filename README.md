@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A2D2&width=435&lines=%E2%80%9CStep+by+step%2C+I%E2%80%99m+learning+and+improving.%E2%80%9D)](https://git.io/typing-svg)
 <br>
 
-</div> 
+
 
 ---
 
@@ -46,7 +46,7 @@
 ---
 
 ## 📞 Contact 📞
-<div align="center">
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
 
 **Instagram** - **speiq_kskw**  
 
@@ -61,12 +61,12 @@
   <a href=추가예정> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=1234@1234"> </a>
 </div>  
 
-</div>  
+
 
 ---
 
 ## 🎓 License  
-<div align="center">
+
 
  ACP 포토샵 & 일러스트  
 GTQ & GTQi  
@@ -77,13 +77,13 @@ GTQ & GTQi
 ![Badges](https://img.shields.io/badge/GTQ-Certified-green?style=flat-square)
 ![Badges](https://img.shields.io/badge/Web_Design_기능사-Preparing-orange?style=flat-square)
 
-</div>
+
 
 ---
 
 ## 💡 Skills Level 💡 
 
-<div align="center">
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
 
 | Skill | Level / Description |
 |-------|---------------------|
@@ -92,25 +92,19 @@ GTQ & GTQi
 | **CSS** | 기본 구조 및 활용 이해 (응용은 더 공부 중) |
 | **JavaScript / jQuery** | 기초 단계, 계속 학습 중 |
 
-</div>
-
 ---
 
 ## 💗 Experience 💗 
-
-<div align="center">
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
 
 📚 **2025.11.18 ~ 2026.04.07**  
 **ESTsoft 11기 프론트엔드 개발자 부트캠프 (참여 중)**
-
-</div>
 
 <br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F767DFFF&height=118&section=footer&animation=fadeIn)
 
-</div>
-
+</div> 
 
 <!--
 **dohaim918/dohaim918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
