@@ -44,12 +44,12 @@
 ## 📞 Contact  
 <div align="center">
 
-📸 **Instagram**  
-👉 **speiq_kskw**  
+**Instagram**  
+**speiq_kskw**  
 
 📧 **Email**  
-👉 **nzspave1121@gmail.com**  
-👉 **canakenshow@naver.com**
+**nzspave1121@gmail.com**  
+**canakenshow@naver.com**
 
 </div>  
 
@@ -58,10 +58,10 @@
 ## 🎓 License  
 <div align="center">
 
-- ACP 포토샵 & 일러스트  
-- GTQ & GTQi  
-- 컴퓨터그래픽스 기능사  
-- 웹 디자인 기능사 필기 합격 → 실기 준비 중  
+ ACP 포토샵 & 일러스트  
+GTQ & GTQi  
+컴퓨터그래픽스 기능사  
+웹 디자인 기능사 필기 합격 → 실기 준비 중 (ing..)
 
 ![Badges](https://img.shields.io/badge/ACP-Adobe-blue?style=flat-square&logo=adobe&logoColor=white)
 ![Badges](https://img.shields.io/badge/GTQ-Certified-green?style=flat-square)
@@ -71,7 +71,7 @@
 
 ---
 
-## 💡 Skills Level  
+## 💡 Skills Level 💡 
 
 <div align="center">
 
@@ -86,7 +86,7 @@
 
 ---
 
-## 🚀 Experience  
+## 🚀 Experience 🚀 
 
 <div align="center">
 
