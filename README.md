@@ -42,11 +42,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=ambient-gradient)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dohaim918&&theme=apprentice)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dohaim918&&theme=apprentice)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=apprentice)
 
 
 ---
