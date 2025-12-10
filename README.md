@@ -20,7 +20,7 @@
 <!-- Visitor Counter -->
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=118&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F767DFFF&height=118&section=footer&animation=fadeIn)
 
 
 	
