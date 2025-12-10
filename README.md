@@ -7,14 +7,16 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A2D2&width=680&lines=“Step+by+step,+I'm+learning+and+improving.”)](https://git.io/typing-svg)
+👑
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A2D2&width=435&lines=%E2%80%9CStep+by+step%2C+I%E2%80%99m+learning+and+improving.%E2%80%9D)](https://git.io/typing-svg)
 <br>
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Tech Stack 🛠
 
+![Figma]([https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white))
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -86,7 +88,7 @@ GTQ & GTQi
 
 ---
 
-## 🚀 Experience 🚀 
+## 💗 Experience 💗 
 
 <div align="center">
 
