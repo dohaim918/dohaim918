@@ -7,7 +7,7 @@
 
 <br>
 
-👑
+###👑
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A2D2&width=435&lines=%E2%80%9CStep+by+step%2C+I%E2%80%99m+learning+and+improving.%E2%80%9D)](https://git.io/typing-svg)
 <br>
@@ -15,6 +15,14 @@
 ---
 
 ### 🛠 Tech Stack 🛠
+
+<div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+</div>
 
 ![Figma]([https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white))
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
