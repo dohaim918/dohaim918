@@ -40,9 +40,13 @@
 
 ### 🧩 GitHub Overview
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=ambient-gradient)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=apprentice)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F767DFFF&height=118&section=footer&animation=fadeIn)
+
+</div>
 
 
 ---
