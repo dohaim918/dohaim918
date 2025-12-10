@@ -1,29 +1,53 @@
-<div align=center>
-  
-![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&&fontAlignY=38&animation=fadeIn)
+<div align="center">
 
-## Hi 😊there 👋
+![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Hi%20there👋%20I'm%20pipapalula%20😊&fontColor=d6ace6&fontSize=50&fontAlignY=38&animation=fadeIn)
 
-  
+## 👋 Welcome to my GitHub!
+ 
+작은 기록들이 모여 더 나은 결과를 만든다고 믿고 꾸준히 노력하고 있습니다
+
+---
+
+### 📊 GitHub Overview
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dohaim918&theme=default)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dohaim918&theme=default)
 
-<!-- 기술 스택 뱃지 -->
+---
+
+### 🛠 Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<!-- 방문자 수 -->
+---
 
-<!-- Visitor Counter -->
+### 👀 Visitor Count
 
+<div align="center">
+
+<!-- 사용할 수 있는 디자인 3개 중 마음에 드는 걸로 선택해서 사용 -->
+<!-- 기본형 -->
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohaim918&count_bg=%23F39BE1&title_bg=%239E4EBD&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)
+
+<!-- 동그란 스타일 -->
+<!--
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohaim918&count_bg=%23A97EF7&title_bg=%236644FF&icon=smugmug.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=true)
+-->
+
+<!-- 라인형 미니멀 -->
+<!--
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dohaim918&count_bg=%23FFFFFF&title_bg=%23FFFFFF&icon=github.svg&icon_color=%23000000&title=Visitors&edge_flat=true)
+-->
+
+</div>
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=F767DFFF&height=118&section=footer&animation=fadeIn)
 
-
-	
 </div>
 
 <!--
