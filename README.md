@@ -18,6 +18,7 @@
 
 ### 🛠 Tech Stack 🛠
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
+
 <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
@@ -46,7 +47,6 @@
 ---
 
 ## 📞 Contact 📞
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
 
 **Instagram** - **speiq_kskw**  
 
@@ -83,7 +83,6 @@ GTQ & GTQi
 
 ## 💡 Skills Level 💡 
 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
 
 | Skill | Level / Description |
 |-------|---------------------|
@@ -95,7 +94,7 @@ GTQ & GTQi
 ---
 
 ## 💗 Experience 💗 
-<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> </h2> <br> 
+
 
 📚 **2025.11.18 ~ 2026.04.07**  
 **ESTsoft 11기 프론트엔드 개발자 부트캠프 (참여 중)**
