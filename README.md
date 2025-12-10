@@ -2,9 +2,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=F776C4FF&height=220&section=header&text=Doha%20Dev%20I'm%20layground%20🎨&fontColor=ffffff&fontSize=50&&fontAlignY=38&animation=fadeIn)
 
-## 👋 Thanks for stopping by!
+## Welcome to my corner of GitHub 💫
  
-작은 기록들이 모여 더 나은 결과를 만든다고 믿고 꾸준히 노력하고 있습니다
+“Step by step, I’m learning and improving.”
 
 ---
 
